@@ -2,7 +2,7 @@
 
 <!--
 **AVNSubhash/avnsubhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hi! My name is A Subhash. I am studying in Sharada Vidya Mandira, Grade 05. I like to do projects on educational topics. First I started using Google Docs. Then I started using Google Slides. After that, I found Scratch, a programming website. Then I learned to code using HTML & CSS. Now I am making projects on educational topics using HTML, CSS, JS & Slides.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
