@@ -5,6 +5,11 @@
     padding: 0;
 }
 
+
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-image: url(BG.png);
     background-attachment: fixed;
