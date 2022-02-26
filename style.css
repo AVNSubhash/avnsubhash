@@ -93,7 +93,6 @@ nav ul li a:hover::after {
     padding-bottom: 500px;
     padding-top: 50px;
     text-align: justify;
-    width: 100%;
 }
 
 #about, #des1 {
